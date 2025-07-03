@@ -1,4 +1,5 @@
 import React from "react";
+import "./ImcCalc.css";
 import Button from "./Button";
 
 const ImcCalc = () => {
@@ -27,8 +28,8 @@ const ImcCalc = () => {
           </div>
         </div>
         <div className="action-control">
-            <Button id="calc-btn" text="Calcular" />
-            <Button id="clear-btn" text="Limpar"/>
+          <Button id="calc-btn" text="Calcular" />
+          <Button id="clear-btn" text="Limpar" />
         </div>
       </form>
     </div>
