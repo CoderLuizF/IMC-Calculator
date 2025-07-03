@@ -2,7 +2,9 @@ import React from 'react'
 
 const ImcCalc = () => {
   return (
-    <div>ImcCalc</div>
+    <div>
+        <h2>Calculadora de IMC</h2>
+    </div>
   )
 }
 
