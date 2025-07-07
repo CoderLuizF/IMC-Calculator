@@ -20,7 +20,7 @@ export const data = [
     max: 29.9,
     classification: "Entre 25,0 e 29,9",
     info: "Sobrepeso",
-    obesity: "1",
+    obesity: "I",
     infoClass: "low",
   },
   {
